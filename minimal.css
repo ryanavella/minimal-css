@@ -4,7 +4,9 @@ body {
     font-size: 1.4rem;
     line-height: 1.6;
     margin: auto;
-    max-width: 65ch;
+    max-width: 60ch;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 a {
